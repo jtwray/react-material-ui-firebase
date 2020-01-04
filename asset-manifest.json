@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/react-material-ui-firebase/static/css/main.795991f2.chunk.css",
-    "main.js": "/react-material-ui-firebase/static/js/main.5899b327.chunk.js",
-    "main.js.map": "/react-material-ui-firebase/static/js/main.5899b327.chunk.js.map",
+    "main.js": "/react-material-ui-firebase/static/js/main.743f7eed.chunk.js",
+    "main.js.map": "/react-material-ui-firebase/static/js/main.743f7eed.chunk.js.map",
     "runtime-main.js": "/react-material-ui-firebase/static/js/runtime-main.d702a6a6.js",
     "runtime-main.js.map": "/react-material-ui-firebase/static/js/runtime-main.d702a6a6.js.map",
     "static/css/2.f303a253.chunk.css": "/react-material-ui-firebase/static/css/2.f303a253.chunk.css",
-    "static/js/2.b10725d0.chunk.js": "/react-material-ui-firebase/static/js/2.b10725d0.chunk.js",
-    "static/js/2.b10725d0.chunk.js.map": "/react-material-ui-firebase/static/js/2.b10725d0.chunk.js.map",
+    "static/js/2.6c34d25c.chunk.js": "/react-material-ui-firebase/static/js/2.6c34d25c.chunk.js",
+    "static/js/2.6c34d25c.chunk.js.map": "/react-material-ui-firebase/static/js/2.6c34d25c.chunk.js.map",
     "index.html": "/react-material-ui-firebase/index.html",
-    "precache-manifest.54f7a755204165c795c10a4d386a7003.js": "/react-material-ui-firebase/precache-manifest.54f7a755204165c795c10a4d386a7003.js",
+    "precache-manifest.cdf3d20d7cfce5705f89f07846f9e4fe.js": "/react-material-ui-firebase/precache-manifest.cdf3d20d7cfce5705f89f07846f9e4fe.js",
     "service-worker.js": "/react-material-ui-firebase/service-worker.js",
     "static/css/2.f303a253.chunk.css.map": "/react-material-ui-firebase/static/css/2.f303a253.chunk.css.map",
     "static/css/main.795991f2.chunk.css.map": "/react-material-ui-firebase/static/css/main.795991f2.chunk.css.map",
-    "static/js/2.b10725d0.chunk.js.LICENSE": "/react-material-ui-firebase/static/js/2.b10725d0.chunk.js.LICENSE",
+    "static/js/2.6c34d25c.chunk.js.LICENSE": "/react-material-ui-firebase/static/js/2.6c34d25c.chunk.js.LICENSE",
     "static/media/index.css": "/react-material-ui-firebase/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.d702a6a6.js",
     "static/css/2.f303a253.chunk.css",
-    "static/js/2.b10725d0.chunk.js",
+    "static/js/2.6c34d25c.chunk.js",
     "static/css/main.795991f2.chunk.css",
-    "static/js/main.5899b327.chunk.js"
+    "static/js/main.743f7eed.chunk.js"
   ]
 }
